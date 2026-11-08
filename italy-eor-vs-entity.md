@@ -1,0 +1,10 @@
+# EOR、現地法人、業務委託、駐在員の比較
+
+> イタリアで人に働いてもらう4つの方法:Employer of Record、自社の現地法人、業務委託、日本からの駐在員。それぞれが向いている場面とリスク。
+
+
+<section> <span class="eyebrow"><a href="payroll-guide.html">給与ガイド</a></span> <h1 id="eor-entity-contractors-expatriates">Employer of Record、現地法人、業務委託、それとも駐在員?</h1> <p class="lede">日本企業がイタリアで人を置く方法は4つあります。どれが合うかは、人数、期間、どこまで管理したいか、そして本社の誰を現地に置く必要があるかで決まります。</p> </section> <section> <div class="tbl"><table> <thead><tr><th></th><th>Employer of Record</th><th>自社の現地法人</th><th>業務委託</th><th>日本からの駐在員</th></tr></thead> <tbody> <tr><td><b>向いている場面</b></td><td>最初の採用、市場テスト、少人数の分散チーム</td><td>安定したチーム、現地販売、長期の拠点</td><td>短く範囲の明確なプロジェクト</td><td>本社の方針・技術の移転、立ち上げ期の管理</td></tr> <tr><td><b>開始までの期間</b></td><td>数日</td><td>数か月:設立、銀行、各種登録</td><td>数日</td><td>就労許可・ビザの取得まで</td></tr> <tr><td><b>雇用主</b></td><td>私たち</td><td>貴社のイタリア法人</td><td>なし:業務委託契約</td><td>日本本社(イタリアでの受け入れ主体も必要)</td></tr> <tr><td><b>イタリアでの貴社の義務</b></td><td>なし</td><td>給与計算、届出、決算、会計、監査</td><td>独立性が保たれているかの確認</td><td>現地での受け入れ・税務の手配</td></tr> <tr><td><b>主なリスク</b></td><td>低い</td><td>計画変更時の固定費</td><td>雇用とみなされ、税金・保険料を追徴</td><td>高い総費用と、3〜5年ごとの交代</td></tr> <tr><td><b>月々の費用</b></td><td>雇用コスト + €250</td><td>雇用コスト + 現地の会計・給与計算</td><td>委託料</td><td>日本の給与 + 海外勤務手当、住居、帯同家族、一時帰国</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="when-contractors-become-a-risk">業務委託がリスクになるとき</h2> <p>相手が貴社だけのために、貴社の時間割で、貴社のツールを使い、貴社の指示で働くなら、イタリアの当局はその契約を雇用とみなすことがあります。その場合、本来払うべきだった保険料と税金に罰金が加わります。EORで雇用契約に切り替えれば、このリスクはなくなります。</p> <h2 id="expatriate-or-local">駐在員と現地採用の組み合わせ</h2> <p>駐在員が必要なのは、本社とのつなぎ役や技術移転など、日本の社員でなければできない役割です。顧客対応、サービス、調達、事務は現地採用のほうが費用も定着もよくなります。日伊社会保障協定(2024年4月発効)により、一時赴任の駐在員は年金の二重加入を避けられます(<a href="https://www.nenkin.go.jp/service/pamphlet/shaho-kyotei.files/ItalyPamphlet.pdf">日本年金機構</a>)。現地採用の従業員はイタリアの制度に加入します。</p> <h2 id="when-to-move-to-own-entity">EORから自社の法人へ移るタイミング</h2> <p>通常は、チームが大きく安定したとき、または販売のために現地の法人格が必要になったときです。法人設立をお手伝いし、雇用の継続を途切れさせずに従業員を移籍させます。</p> </section> <div class="cta"><a class="btn" href="contact.html">貴社のケースを相談する</a></div>
+
+
+---
+Source: https://italykoyo.com/italy-eor-vs-entity.html

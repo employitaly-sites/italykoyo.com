@@ -1,0 +1,71 @@
+# イタリア雇用
+
+> 現地法人なしでイタリアで雇用. Employer of Record (EOR) in Italy: €250 per employee per month, all inclusive. Invoiced in the client's currency at the EUR reference rate.
+
+## Pages
+- [EOR、現地法人、業務委託、駐在員の比較](https://italykoyo.com/italy-eor-vs-entity.html): イタリアで人に働いてもらう4つの方法:Employer of Record、自社の現地法人、業務委託、日本からの駐在員。それぞれが向いている場面とリスク。
+- [パートナー](https://italykoyo.com/partners.html): グローバルEOR・給与計算事業者のための現地パートナープログラムと、紹介パートナー制度。
+- [パートナープログラム](https://italykoyo.com/partner-program.html): 会計事務所・社会保険労務士事務所・法律事務所・海外進出支援機関のためのパートナープログラム。顧問先が現地法人なしでイタリアで雇用できます。
+- [イタリア・ローマで採用する](https://italykoyo.com/hire-in-rome.html): ローマでの採用:主な産業、大学、地方所得税、手取り、日本企業のための実務メモ。
+- [イタリア・トリノで採用する](https://italykoyo.com/hire-in-turin.html): トリノでの採用:自動車・航空宇宙、大学、地方所得税、手取り、日本企業のための実務メモ。
+- [イタリア・ナポリで採用する](https://italykoyo.com/hire-in-naples.html): ナポリでの採用:航空宇宙・開発者、大学、地方所得税、手取り、日本企業のための実務メモ。
+- [イタリア・ボローニャで採用する](https://italykoyo.com/hire-in-bologna.html): ボローニャでの採用:包装機械・モーター、大学、地方所得税、手取り、日本企業のための実務メモ。
+- [イタリア・ミラノで採用する](https://italykoyo.com/hire-in-milan.html): ミラノでの採用:主な産業、大学、地方所得税、手取り、日本企業のための実務メモ。
+- [イタリアでソフトウェアエンジニアを採用する](https://italykoyo.com/hire-software-engineers-italy.html): イタリアのソフトウェアエンジニア採用:リモート勤務協定、機器、知的財産、株式報酬、オンコール、日本との時差。
+- [イタリアでファッション・デザイン人材を採用する](https://italykoyo.com/hire-fashion-design-italy.html): イタリアのファッション・テキスタイル・家具デザインの人材採用:産地、展示会シーズン、意匠権、業務委託のリスク、費用。
+- [イタリアで医薬・ライフサイエンス人材を採用する](https://italykoyo.com/hire-pharma-life-sciences-italy.html): イタリアで臨床開発、薬事、メディカルアフェアーズの人材を採用:化学・医薬品CCNL、規制対象の職務、社用車、費用。
+- [イタリアで営業担当者を採用する](https://italykoyo.com/hire-sales-italy.html): イタリアで営業・代理店管理の人材を採用:コミッション、社用車、出張、生産性賞与、代理店契約との違い。
+- [イタリアで機械・FAエンジニアを採用する](https://italykoyo.com/hire-engineers-manufacturing-italy.html): イタリアでフィールドサービス、アプリケーション、品質保証のエンジニアを採用:金属機械CCNL、産業集積地、出張、安全衛生、費用。
+- [イタリアと日本の雇用ルールの違い](https://italykoyo.com/italy-vs-japan.html): 解雇、解雇予告、有給休暇、病気休暇、社会保険、賞与と13・14か月目給与、退職金とTFR、競業避止。日本企業がイタリアで現地採用する前に知っておくべき違いを一覧で比較します。
+- [イタリアのEOR料金比較(すべて込み)](https://italykoyo.com/compare-eor-prices.html): イタリア雇用はイタリアで最も低いオールインクルーシブのEmployer of Record料金、従業員1名あたり月額€250。イタリア向け料金を公開しているEOR事業者との比較表。
+- [イタリアの給与カレンダー](https://italykoyo.com/italy-payroll-calendar.html): イタリアの毎月の給与サイクル:締め、支払日、16日までのF24、UniEmens、LUL、CU(源泉徴収票)と年次申告。日本の年末調整との違いも。
+- [イタリアの給与の構成](https://italykoyo.com/italy-salary-components.html): イタリアの給与の中身:RAL、13・14か月目給与、手当、現物給付、INPS・INAILの保険料、所得税と付加税。日本の額面・手取りとの読み替え。
+- [イタリアの給与計算アウトソーシング](https://italykoyo.com/italy-payroll-outsourcing.html): イタリアで給与計算を外部委託する理由、外国企業のよくある誤り、日本本社への報告、委託先に確認すべき質問。
+- [イタリアの雇用コスト・シミュレーター](https://italykoyo.com/calculator.html): イタリアの従業員にかかる費用:給与総額、事業主の社会保険料、INAIL、退職手当(TFR)を2つの代表的な労働協約で試算。州・市の税金が手取りをどう変えるかも解説。
+- [イタリアの雇用と給与計算](https://italykoyo.com/payroll-guide.html): 日本企業のためのイタリアの雇用・給与計算ガイド:給与カレンダー、給与の構成、契約と休暇、日本との比較、アウトソーシング。
+- [イタリアの雇用契約・休暇・退職](https://italykoyo.com/italy-employment-contracts.html): イタリアの雇用契約の決まり方、CCNL、年次休暇、病気休暇、出産・父親休暇、祝日、退職時の精算。日本企業の人事担当者向け。
+- [イタリアの手取り計算](https://italykoyo.com/net-pay-calculator.html): 2026年のイタリアの額面から手取りまで:従業員の社会保険料、給与所得控除を含む所得税(IRPEF)、州・市の付加税。ミラノ、ローマ、トリノ、ボローニャ、ナポリ。
+- [イタリアの就労ビザ](https://italykoyo.com/visas.html): EU域外の人材(日本国籍者を含む)をイタリアで雇用するための就労ビザとEUブルーカード。1件€2,500。
+- [イタリアの都市別採用ガイド](https://italykoyo.com/hire-in-italy-cities.html): ミラノ、ローマ、トリノ、ボローニャ、ナポリで採用する日本企業のための都市ガイド:産業、大学、地方所得税、実務メモ。
+- [イタリア雇用について](https://italykoyo.com/about.html): イタリア雇用は、外国企業のためにイタリアで人を雇用する給与・人事の専門チームです。データはEU域内で管理します。
+- [イタリア雇用を通じて採用された方へ](https://italykoyo.com/employees.html): イタリア雇用を通じて日本企業に採用された方へ:イタリアの雇用契約、給与明細、INPS、TFR、13か月目給与、休暇、よくある質問。
+- [見積もり依頼](https://italykoyo.com/contact.html): イタリアでの従業員雇用の見積もりを依頼。3つの簡単なステップ、1営業日以内に回答します。
+- [現地法人なしで私をイタリアで雇用する方法](https://italykoyo.com/for-your-employer.html): イタリアの人材を採用したい日本企業へ:イタリア雇用が雇用主になる仕組み、費用、始め方。候補者から採用担当者へ送るためのページです。
+- [日本企業向けよくある質問](https://italykoyo.com/faq.html): Employer of Record(EOR)でイタリアの人材を雇用する日本企業のための回答集:手続き、費用、雇用ルール、駐在員との比較、福利厚生、データ。
+- [料金](https://italykoyo.com/pricing.html): イタリアのEmployer of Record(EOR)は従業員1名あたり月額€250。給与計算は給与明細1件€55。EUブルーカード・就労ビザは1件€2,500。日本円またはユーロで請求。
+
+## Articles
+- [イタリアの8月休暇と日本のお盆:労働時間と休暇の計画](https://italykoyo.com/articles/august-shutdown-vs-obon-italy.html): イタリアの労働時間、祝日、8月の長期休暇はどう決まるか。日本のお盆休みとの違いと、日本本社との業務の計画の仕方を解説します。
+- [日本とイタリアの時差とコミュニケーション:現地採用チームのマネジメント](https://italykoyo.com/articles/japan-italy-time-zones-communication.html): 日本とイタリアの時差は8時間(夏は7時間)。重なる時間が短いチームで会議、報告、意思決定をどう回すか。イタリアの従業員との働き方のコツ。
+- [イタリアの営業担当者と恒久的施設(PE)リスク](https://italykoyo.com/articles/permanent-establishment-risk-sales-staff-italy.html): イタリアで営業担当者が契約を締結すると、日本の会社がイタリアで課税対象の拠点を持つとみなされることがあります。PEリスクの考え方と管理の方法。
+- [EORから自社のイタリア法人へ従業員を移籍させる方法](https://italykoyo.com/articles/eor-to-italian-subsidiary-transfer.html): イタリアで現地法人を設立したら、EORで雇用している従業員をどう移すか。勤続とTFRの扱い、準備、従業員への説明、給与の切り替えを解説します。
+- [イタリアで食品・ワイン・アグリテックの専門人材を採用する](https://italykoyo.com/articles/food-wine-specialist-hiring-italy.html): 日本の食品輸入会社、商社、食品機械メーカーがイタリアで採用する専門職:調達、品質、輸出入、技術営業。季節性と協約の注意点。
+- [イタリアのファッション・ラグジュアリー人材:日本のブランドと商社のための採用ガイド](https://italykoyo.com/articles/fashion-luxury-hiring-italy-japanese-brands.html): イタリアのファッション・ラグジュアリー分野で求められる職務、産地の集積、候補者の期待、日本のアパレル・生地商社が現地採用する際の実務。
+- [ヴェネトと北東部イタリアで製造業・輸出の人材を採用する](https://italykoyo.com/articles/machinery-suppliers-north-east-italy.html): ヴェネツィア、パドヴァ、ヴィチェンツァなど北東部イタリアの製造業・輸出の人材。日本の機械・部品・素材メーカーが現地採用する際のポイント。
+- [イタリアの額面と手取り:従業員にいくら残るか](https://italykoyo.com/articles/net-vs-gross-italy-employee-take-home.html): イタリアの給与総額が手取りになるまで:従業員の年金保険料9.19%、累進の所得税、給与所得の税額控除。日本の手取りの感覚との違いを解説します。
+- [イタリアの採用で予算から漏れやすい費用](https://italykoyo.com/articles/hidden-costs-hiring-in-italy.html): 給与だけがイタリアの従業員のコストではありません。労災保険、TFR、追加の給与、安全衛生、ビザ、退職時の費用など、日本企業の予算で漏れやすい項目を整理します。
+- [2026年、イタリアの従業員にかかる本当のコスト](https://italykoyo.com/articles/italian-employee-cost-2026-japanese-view.html): イタリアの従業員のコストは給与総額だけではありません。事業主の社会保険料、INAIL、TFR、13か月目給与まで、日本の人件費の感覚と比べながら積み上げます。
+- [営業担当者1人でイタリア市場をテストする方法](https://italykoyo.com/articles/test-italian-market-one-sales-hire.html): 日本企業がイタリア市場を低リスクで試す方法:営業担当者を1人採用し、成功の基準を決め、固定費を抑え、判断のリズムを作る。
+- [日本の会社はイタリアで直接人を雇えるか](https://italykoyo.com/articles/can-japanese-company-hire-in-italy-directly.html): イタリアに拠点のない日本企業が現地で人を雇う方法:直接雇用、現地法人・支店、業務委託、Employer of Record。それぞれの実務を整理します。
+- [イタリアの候補者に選ばれるオファーの出し方:日本企業向け](https://italykoyo.com/articles/job-offer-italy-japanese-company.html): イタリアで内定承諾につながるオファーの構成。年収総額と手取りの示し方、協約、支払回数、日本企業ならではの意思決定の速さの問題を解説します。
+- [トリノで自動車・航空宇宙のエンジニアを採用する](https://italykoyo.com/articles/hiring-automotive-engineers-turin.html): トリノの自動車・航空宇宙エンジニアの人材、トリノ工科大学、累進の市付加税、日本の部品メーカーが現地採用する際の要点。
+- [イタリアの従業員の出張と経費精算:日本への出張も含めて](https://italykoyo.com/articles/business-trip-expenses-italy.html): イタリアの従業員の出張手当(日当)、経費精算、非課税となる条件、日本への出張や研修の扱いを解説します。
+- [イタリアの食事券とフリンジベネフィット:2026年の非課税枠](https://italykoyo.com/articles/meal-vouchers-fringe-benefits-italy.html): イタリアの候補者が期待する食事券(buoni pasto)と、年間のフリンジベネフィット枠。2026年の非課税限度と、日本の福利厚生との違いを解説します。
+- [日本国籍の社員をイタリアで雇用するには:就労許可とビザの流れ](https://italykoyo.com/articles/work-permit-japanese-nationals-italy.html): 日本国籍者はEU域外の扱いで、イタリアでの就労には就労許可、ビザ、滞在許可が必要です。EUブルーカードと通常の就労許可、手続きの順番を解説します。
+- [イタリアの出産・育児休暇:日本企業のチーム計画](https://italykoyo.com/articles/parental-leave-italy-team-planning.html): イタリアの出産休暇5か月、父親休暇10労働日、任意の育児休暇の仕組みと、少人数チームでの引き継ぎ計画を解説します。
+- [イタリアの給与明細(busta paga)の読み方:日本本社の経理担当者向け](https://italykoyo.com/articles/italian-payslip-for-japanese-hq.html): イタリアの給与明細の構成、総額・控除・手取り、13か月目やTFRの表示、日本の給与明細との違いを、本社経理の視点で解説します。
+- [イタリアの労働時間と残業:日本の36協定との違いと「つながらない権利」](https://italykoyo.com/articles/working-hours-overtime-italy-vs-japan.html): イタリアの週40時間、残業込みで平均週48時間の上限、協約の割増率、リモート勤務の「つながらない権利」を、日本の労働時間規制と比べて解説します。
+- [イタリアの競業避止条項:日本との違いと有効にするための条件](https://italykoyo.com/articles/non-compete-italy-vs-japan.html): イタリアの競業避止契約(patto di non concorrenza)は書面・対価・期間と地域の限定が条件。日本の判例による判断と比べて解説します。
+- [イタリアの有期雇用と無期雇用:日本企業はどちらで採用すべきか](https://italykoyo.com/articles/fixed-term-vs-permanent-contracts-italy.html): イタリアの有期契約と無期契約の違い、更新の制限、日本の契約社員との比較、市場テスト段階でどちらを選ぶべきかを解説します。
+- [イタリアのCCNLとは:日本の企業別労働協約・就業規則との違い](https://italykoyo.com/articles/italy-ccnl-vs-japanese-labor-agreements.html): イタリアのすべての職務は業種別の全国労働協約(CCNL)に属します。日本の企業別組合や就業規則と比べながら、CCNLが決めることと選び方を解説します。
+- [イタリアの病気休暇:日本の管理職が知っておくべきこと](https://italykoyo.com/articles/sick-leave-italy-for-japanese-managers.html): イタリアの病気休暇は医師の電子診断書とINPSで動きます。日本の傷病手当金との違い、管理職が聞いてよいこと・いけないことを解説します。
+- [イタリアの有給休暇:日本の年次有給休暇との違い](https://italykoyo.com/articles/paid-leave-italy-vs-japan-nenkyu.html): イタリアでは有給休暇は入社初年度から年4週間以上。日本の年休(6か月後に10日)との違い、病気休暇との区別、管理の仕方を解説します。
+- [イタリアの試用期間:日本の試用期間と何が違うか](https://italykoyo.com/articles/probation-period-italy-vs-japan.html): イタリアの試用期間(periodo di prova)の要件、長さ、期間中の終了、本採用後の扱いを、日本の試用期間と比較して解説します。
+- [イタリアの退職・解雇の基本:日本の解雇ルールと比べて](https://italykoyo.com/articles/ending-employment-italy-vs-japan.html): イタリアで雇用が終わるとき:自己都合退職、予告期間、解雇、合意退職、最終給与。日本の解雇権濫用法理と比べながら、手続きの要点を整理します。
+- [イタリアの年収(RAL)の読み方:日本の「額面年収」との違い](https://italykoyo.com/articles/italian-ral-vs-japanese-annual-income.html): イタリアの候補者が提示するRAL(年間給与総額)の意味、支払回数、日本の額面年収・手取りとの読み替え方を解説します。
+- [日本の賞与とイタリアの13・14か月目給与はどう違うか](https://italykoyo.com/articles/japanese-bonus-vs-italian-13th-14th-month.html): イタリアの13か月目・14か月目給与は日本の賞与とは別物です。業績で減らせない理由、支給時期、資金繰りと引当の考え方を解説します。
+- [駐在員を送るか、イタリアで現地採用するか:EOR・業務委託・現地法人の選び方](https://italykoyo.com/articles/expatriate-vs-local-hire-italy-eor.html): イタリア進出で日本企業が最初に迷う「駐在員か現地採用か」。EOR、業務委託、現地法人の違いを、人数・リスク・スピードの3つの観点で整理します。
+
+## Optional
+- [Full text for AI ingestion](https://italykoyo.com/llms-full.txt)
+- [Sitemap](https://italykoyo.com/sitemap.xml)
